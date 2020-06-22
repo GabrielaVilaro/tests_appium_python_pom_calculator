@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad84b709-efd8-4b9d-ba5a-eaec89ffb9e5" name="Default Changelist" comment="" />
+    <list default="true" id="ad84b709-efd8-4b9d-ba5a-eaec89ffb9e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/activity_birthday.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/activity_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_object.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dfsjVOiRiaejALW9wHWRrwhBWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -77,22 +86,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1592833752058" />
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1592834752682">
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1592838128874">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592834752682" />
-    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1592834752679">
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592838128874" />
+    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1592838128872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592834752679" />
-    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1592834752672">
+    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592838128872" />
+    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1592838128870">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592834752672" />
-    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1592834752680">
+    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592838128870" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1592838128873">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592834752680" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592838128873" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592827639348">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

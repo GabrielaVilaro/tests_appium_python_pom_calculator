@@ -1,3 +1,4 @@
+@staticmethod
 class ActivityIndex:
 
     def __init__(self, driver):
@@ -22,3 +23,6 @@ class ActivityIndex:
 
     def get_text(self):
         return self.driver.find_element_by_id(self.result).text
+
+
+
