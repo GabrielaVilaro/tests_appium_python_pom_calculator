@@ -9,7 +9,7 @@ class Conection(unittest.TestCase):
           "platformName": "Android",
           "platformVersion": "9",
           "deviceName": "lavender",
-          "automatorName": "UiAutomator2",
+          "automationName": "UiAutomator1",
           "appPackage": "com.miui.calculator",
           "appActivity": "com.miui.calculator.cal.CalculatorActivity"
         }

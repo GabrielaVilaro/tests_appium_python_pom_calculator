@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad84b709-efd8-4b9d-ba5a-eaec89ffb9e5" name="Default Changelist" comment="" />
+    <list default="true" id="ad84b709-efd8-4b9d-ba5a-eaec89ffb9e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/activity_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_object.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dfsjVOiRiaejALW9wHWRrwhBWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python tests.Unittests for search_object.Conection">
     <configuration name="Unittests for search_object.Conection" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -35,6 +44,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;search_object.Conection&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for search_object.Conection.test_one_result" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pruebas_appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;search_object.Conection.test_one_result&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -55,6 +78,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Unittests for search_object.Conection" />
+        <item itemvalue="Python tests.Unittests for search_object.Conection.test_one_result" />
         <item itemvalue="Python tests.Unittests for search_object.Conection.test_prueba" />
       </list>
     </recent_temporary>
@@ -77,25 +101,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1592833752058" />
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1592834752682">
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1592861276557">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592834752682" />
-    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1592834752679">
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592861276557" />
+    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1592861276555">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592834752679" />
-    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1592834752672">
+    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592861276555" />
+    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1592861276554">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592834752672" />
-    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1592834752680">
+    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592861276554" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1592861276556">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592834752680" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592827639348">
+    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592861276556" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1593202829107">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1592827639348" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593202829107" />
   </component>
 </project>
