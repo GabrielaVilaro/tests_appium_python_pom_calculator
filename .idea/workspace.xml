@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad84b709-efd8-4b9d-ba5a-eaec89ffb9e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activity_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/activity_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_object.py" afterDir="false" />
-    </list>
+    <list default="true" id="ad84b709-efd8-4b9d-ba5a-eaec89ffb9e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,22 +97,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1592833752058" />
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1592861276557">
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1593362184431">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592861276557" />
-    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1592861276555">
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593362184431" />
+    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1593362184429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592861276555" />
-    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1592861276554">
+    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593362184429" />
+    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1593362184427">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592861276554" />
-    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1592861276556">
+    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593362184427" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1593362184430">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592861276556" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593362184430" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1593202829107">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
